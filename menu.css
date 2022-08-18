@@ -1,0 +1,78 @@
+
+body{
+	background: url("plano de fundo.jpg");
+	height: 200vh;
+}
+
+
+
+header{
+	background:  #3F795E;
+	padding: 20px;
+	
+	
+}
+
+.caixa{
+	position: relative;
+	width: 1310px;
+	margin: 0 auto;
+
+
+}
+
+#logotipo{
+	margin:0px;
+	border: solid 4px #111147;
+}
+
+nav li{
+	display: inline;
+	margin:0 0 0 15px;
+	
+
+}
+
+nav a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 29px;
+	text-decoration: none;
+	
+
+}
+
+nav{
+	position: absolute;
+	top: 0px;
+	right: 25px;
+	}
+
+
+nav a:hover{
+	color: #FFFFFF;
+	text-decoration: underline;
+
+}
+
+
+
+h1{
+	color: #111147;
+	border: solid 2px #111147;
+	margin: 2px;
+	position: absolute;
+	font-size: 65px;
+	top:50px;
+	right: 600px
+}
+
+h2{
+
+	 font-size: 30px;
+    position: absolute;
+    top: 300px;
+    right: 480px
+
+}
